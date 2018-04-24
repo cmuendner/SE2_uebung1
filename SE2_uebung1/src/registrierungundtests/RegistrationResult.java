@@ -1,4 +1,4 @@
-package klassendiagramm;
+package registrierungundtests;
 
 public class RegistrationResult {
 	private boolean bool;

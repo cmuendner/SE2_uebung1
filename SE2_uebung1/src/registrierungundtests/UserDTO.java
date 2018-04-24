@@ -1,4 +1,4 @@
-package klassendiagramm;
+package registrierungundtests;
 
 public class UserDTO {
 	private String name_pflicht;

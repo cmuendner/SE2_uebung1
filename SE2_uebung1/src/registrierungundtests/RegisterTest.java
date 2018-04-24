@@ -1,4 +1,4 @@
-package klassendiagramm;
+package registrierungundtests;
 
 import static org.junit.Assert.*;
 

@@ -1,4 +1,4 @@
-package klassendiagramm;
+package registrierungundtests;
 
 public class RegistrierenControl {
 	//beim registrieren viele möglichkeiten von fehlern

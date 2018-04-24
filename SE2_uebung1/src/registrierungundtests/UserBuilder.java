@@ -1,4 +1,4 @@
-package klassendiagramm;
+package registrierungundtests;
 
 public class UserBuilder {
 	private String name_pflicht;
