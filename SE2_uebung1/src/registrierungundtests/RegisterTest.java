@@ -2,7 +2,6 @@ package registrierungundtests;
 
 import static org.junit.Assert.*;
 
-import org.hamcrest.Factory;
 import org.junit.Before;
 import org.junit.Test;
 
