@@ -14,7 +14,7 @@ public class UserDTOFactory {
 	//Constructor for creating UserDTO Objects
 	public UserDTO createUserDTO(String vorname, String nachname,String email, String passwort, String anschrift,
 			String geburtsdatum, String telefonnummer, String linuxkennung, String art){
-		return new UserDTO(vorname, nachname, passwort, email, anschrift, geburtsdatum, telefonnummer, linuxkennung, art);
+		return new UserDTO(vorname, nachname, email, passwort, anschrift, geburtsdatum, telefonnummer, linuxkennung, art);
 	}
 	
 	//Constructor for test - UserDTO Objects
