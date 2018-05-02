@@ -1,3 +1,7 @@
+/**
+ *@author nweige2s 
+ */
+
 package registrierungundtests;
 import java.util.regex.*;
 public class RegistrierenControl {

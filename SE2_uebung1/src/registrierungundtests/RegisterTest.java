@@ -1,3 +1,7 @@
+/**
+ *@author nweige2s 
+ */
+
 package registrierungundtests;
 
 import static org.junit.Assert.*;
